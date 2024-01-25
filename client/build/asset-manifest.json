@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1594b2d5.css",
+    "main.js": "/static/js/main.4bee0a85.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/HeroPhoto.jpg": "/static/media/HeroPhoto.3095f3b2522059d6bf2f.jpg",
+    "static/media/6956037.jpg": "/static/media/6956037.bf045bec879a90d819af.jpg",
+    "static/media/ProfilePageHero.png": "/static/media/ProfilePageHero.ec3b8545367adb30d948.png",
+    "static/media/Logo.png": "/static/media/Logo.e827887af982f5f78cb2.png",
+    "index.html": "/index.html",
+    "static/media/person.svg": "/static/media/person.185922268eedceba15d7a44a076cbe0a.svg",
+    "static/media/postPaperPlaneYellow.svg": "/static/media/postPaperPlaneYellow.ecbdb1d0c251568a6b80e0817778f779.svg",
+    "static/media/postPaperPlaneWhite.svg": "/static/media/postPaperPlaneWhite.da5e83b256dcdc57c180321f13a9c10e.svg",
+    "static/media/emailIcon.svg": "/static/media/emailIcon.34d32872dde953636d885abd06a3b00f.svg",
+    "static/media/lockIcon.svg": "/static/media/lockIcon.6ad42dc0b4882254809a28e3bec3023e.svg",
+    "main.1594b2d5.css.map": "/static/css/main.1594b2d5.css.map",
+    "main.4bee0a85.js.map": "/static/js/main.4bee0a85.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1594b2d5.css",
+    "static/js/main.4bee0a85.js"
+  ]
+}
