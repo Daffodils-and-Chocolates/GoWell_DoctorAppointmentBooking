@@ -18,13 +18,6 @@ app.use(express.json());
 app.use(moragan("dev"));
 // app.use(cors());
 
-//static files
-app.use(express.static(path.join(__dirname,'../client/build')))
-
-app.get('*',function(req,res){
-  res.sendFile(path.join(__dirname,"../client/build/index.html"))
-})
-
 //routes
 app.use("/api/v1/user", require("./routes/userRoutes"));
 app.use("/api/v1/admin", require("./routes/adminRoutes"));
@@ -39,3 +32,10 @@ app.listen(port, () => {
       .bgCyan.white
   );
 });
+
+//static files
+app.use(express.static(path.join(__dirname,'../client/build')))
+
+app.get('*',function(req,res){
+  res.sendFile(path.join(__dirname,"../client/build/index.html"))
+})
